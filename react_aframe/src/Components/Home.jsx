@@ -1,8 +1,8 @@
 import React from 'react';
 import './Navbar';
-import './Footer';
 import './css/Home.css';
 import Portafolio from './Portafolio';
+import './Footer';
 
 const Home = () => {
   return (

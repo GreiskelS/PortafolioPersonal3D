@@ -4,7 +4,7 @@ import NavbarMain from './Components/Navbar';
 import Experience3D from './Components/Experience3D';
 import Home from './Components/Home';
 import Contacto from './Components/Contacto';
-import Footer from './Components/Footer';
+import './Components/Footer';
 
 function App() {
   return (
@@ -17,7 +17,7 @@ function App() {
           <Route path='/Contacto' element={<Contacto />}>Contacto</Route>
         </Routes>
       </BrowserRouter>
-      <Footer />
+
     </div>
   );
 }

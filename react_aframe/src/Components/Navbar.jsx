@@ -10,7 +10,6 @@ const NavbarMain = () => {
       <Navbar collapseOnSelect expand="lg" bg="dark" variant="dark" className='fluidcontent'>
         <div>
           <img className="logo" src="/img/avatarlogo.jpeg" height="60px" alt="" href="/Home" />
-          {/* <p className='titulo'> Greiskel S.</p> */}
         </div>
         <Container className='fluid'>
           <Navbar.Brand href="/Home" className='hoverclick'>Home</Navbar.Brand>
