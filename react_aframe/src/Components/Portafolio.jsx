@@ -40,7 +40,6 @@ function Portafolio() {
       setIsLoggedIn(true);
     } catch (error) {
       console.error('Error en el login:', error);
-      // Manejar el error de la API
     }
   };
 

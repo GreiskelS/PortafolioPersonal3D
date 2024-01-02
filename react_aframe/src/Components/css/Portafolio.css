@@ -12,7 +12,6 @@
     background-color:  rgb(255, 255, 255);
     align-items: center;
     justify-content: center;
-    margin-left: 10px;
     text-align: center;
     }
 
@@ -32,9 +31,8 @@ strong {
     object-fit: contain;
 }
 
-.card.p-4 {
+div.card.p-4 {
     background-color: rgba(47, 49, 48, 0.393);
-    margin-top: 100px;
 }
 
 .btn.btn.success {

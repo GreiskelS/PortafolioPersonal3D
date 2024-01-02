@@ -9,10 +9,10 @@ const NavbarMain = () => {
     <div className='Navbar'>
       <Navbar collapseOnSelect expand="lg" bg="dark" variant="dark" className='fluidcontent'>
         <div>
-          <img className="logo" src="/img/avatarlogo.jpeg" height="60px" alt="" href="/Home" />
+          <img className="logo" src="/img/Items/avatarlogo.jpeg" height="60px" alt="" href="/Home" />
         </div>
         <Container className='fluid'>
-          <Navbar.Brand href="/Home" className='hoverclick'>Home</Navbar.Brand>
+          <Navbar.Brand href="/" className='hoverclick'>Home</Navbar.Brand>
           <Navbar.Toggle aria-controls="responsive-navbar-nav" />
           <Navbar.Collapse id="responsive-navbar-nav">
             <Nav className="me-auto">
