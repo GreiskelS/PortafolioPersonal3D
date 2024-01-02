@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/github.io/PortafolioPersonal3D/static/css/main.3255079f.css",
+    "main.js": "/github.io/PortafolioPersonal3D/static/js/main.ce07c17d.js",
+    "static/js/787.bb3821b4.chunk.js": "/github.io/PortafolioPersonal3D/static/js/787.bb3821b4.chunk.js",
+    "index.html": "/github.io/PortafolioPersonal3D/index.html",
+    "main.3255079f.css.map": "/github.io/PortafolioPersonal3D/static/css/main.3255079f.css.map",
+    "main.ce07c17d.js.map": "/github.io/PortafolioPersonal3D/static/js/main.ce07c17d.js.map",
+    "787.bb3821b4.chunk.js.map": "/github.io/PortafolioPersonal3D/static/js/787.bb3821b4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3255079f.css",
+    "static/js/main.ce07c17d.js"
+  ]
+}
