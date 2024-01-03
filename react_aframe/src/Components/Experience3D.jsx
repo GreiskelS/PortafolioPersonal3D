@@ -2,17 +2,8 @@ import React, { useState } from 'react';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './Navbar';
 import './modify'
-import { Button, Modal } from 'react-bootstrap';
-import { Link } from 'react-router-dom';
-
 
 const Experience3D = () => {
-
-  const [showModal, setShowModal, setBotonClick] = useState(false);
-
-  const handleBoxClick = () => {
-    setShowModal(true);
-  };
 
   return (
     <>

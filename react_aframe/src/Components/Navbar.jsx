@@ -23,7 +23,6 @@ const NavbarMain = () => {
                 Contact
               </Nav.Link>
             </Nav>
-
           </Navbar.Collapse>
         </Container>
       </Navbar>
