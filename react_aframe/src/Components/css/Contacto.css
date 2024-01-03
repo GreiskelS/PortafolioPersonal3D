@@ -22,7 +22,7 @@ form.formBasicEmail {
 }
 
 .textform {
-color: rgba(240, 248, 255, 0.749);
+    color: rgba(240, 248, 255, 0.749);
 }
 
 form.formBasicEmail.p h4 {
@@ -80,6 +80,20 @@ textarea.message {
 button#enviado.btn.btn-dark {
     margin: 2px;
     position: relative;
+}
+
+#modalform {
+    position: relative;
+}
+
+.modal-header {
+    background-color: rgba(3, 3, 3, 0.274);
+
+}
+
+.modal-footer {
+    background-color: rgba(3, 3, 3, 0.274);
+
 }
 
 @media screen and (max-width: 1280px) {
