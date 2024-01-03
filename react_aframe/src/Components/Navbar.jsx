@@ -13,6 +13,7 @@ const NavbarMain = () => {
         </div>
         <Container className='fluid'>
           <Navbar.Brand href="/" className='hoverclick'>Home</Navbar.Brand>
+          <h5 className='nameport'> 💠Portfolio <strong> Greiskel Sánchez</strong> 💠 </h5>
           <Navbar.Toggle aria-controls="responsive-navbar-nav" />
           <Navbar.Collapse id="responsive-navbar-nav">
             <Nav className="me-auto">
@@ -26,6 +27,7 @@ const NavbarMain = () => {
           </Navbar.Collapse>
         </Container>
       </Navbar>
+      
     </div>
   )
 }

@@ -8,3 +8,8 @@
 .img:hover {
     transition: .5s;
 }
+
+a.clickproject {
+    position: relative;
+    color: white;
+}
