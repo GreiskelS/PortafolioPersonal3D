@@ -1,5 +1,4 @@
 {
-  "homepage": "https://greiskels.ithub.io/Portafoliopersonal3d",
   "name": "react_aframe",
   "version": "0.1.0",
   "private": true,
@@ -24,8 +23,6 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "predeploy": "npm run build",
-    "deploy": "npm run build",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
@@ -51,7 +48,6 @@
   "devDependencies": {
     "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
     "aframe-mouse-cursor-component": "^0.5.3",
-    "gh-pages": "^6.1.1",
     "react-router-dom": "^6.21.1"
   }
 }
