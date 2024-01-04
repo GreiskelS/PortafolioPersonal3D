@@ -37,7 +37,7 @@ Back (no disponible en deploy por seguridad*):
 <h3><strong>Proyecto individual</strong></h3>
 
 <h2>* Proyecto portafolio inmersivo</h2>
-- Deploy: https://portafolio-personal3-d.vercel.app/Experience3D
+- Deploy: https://portafolio-personal3-d.vercel.app/
 
 ![experiencia3d](https://github.com/GreiskelS/PortafolioPersonal3D/assets/126780487/9bdbfdf4-896c-4ded-a77f-bececcac1255)
 
